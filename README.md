@@ -1,5 +1,4 @@
 # Personalized-internship-portal-
-# Personalized Internship Portal
 
 A machine learning-powered internship portal that matches candidates with internship opportunities based on their skills, qualifications, and preferences.
 
